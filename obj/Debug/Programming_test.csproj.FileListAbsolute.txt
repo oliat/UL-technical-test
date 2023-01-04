@@ -1,0 +1,8 @@
+C:\Users\Віталій\Projects\Programming_test\bin\Debug\Programming_test.exe.config
+C:\Users\Віталій\Projects\Programming_test\bin\Debug\Programming_test.exe
+C:\Users\Віталій\Projects\Programming_test\bin\Debug\Programming_test.pdb
+C:\Users\Віталій\Projects\Programming_test\obj\Debug\Programming_test.csproj.AssemblyReference.cache
+C:\Users\Віталій\Projects\Programming_test\obj\Debug\Programming_test.csproj.SuggestedBindingRedirects.cache
+C:\Users\Віталій\Projects\Programming_test\obj\Debug\Programming_test.csproj.CoreCompileInputs.cache
+C:\Users\Віталій\Projects\Programming_test\obj\Debug\Programming_test.exe
+C:\Users\Віталій\Projects\Programming_test\obj\Debug\Programming_test.pdb
